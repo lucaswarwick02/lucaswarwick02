@@ -9,6 +9,7 @@ I am currently a student working towards a BSc in Computer Science at the Univer
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [Online Resume](http://lucaswarwick02.github.io/online-resume)
 * ✉️  You can contact me at [lucaswarwick02@gmail.com](mailto:lucaswarwick02@gmail.com)
+* 🚀  I'm currently working on [Vanilla Overhaul (Minecraft Fabric Mod for 1.19)](http://github.com/lucaswarwick02/vanilla-overhaul)
 
 ### Skills
 
