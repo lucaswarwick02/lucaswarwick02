@@ -10,7 +10,7 @@ I am currently a student working towards a BSc in Computer Science at the Univer
 * 🖥️  See my portfolio at [Online Resume](http://lucaswarwick02.github.io/online-resume)
 * ✉️  You can contact me at [lucaswarwick02@gmail.com](mailto:lucaswarwick02@gmail.com)
 * 💼  I am currenly working as a Data Science Intern for [Cirium](https://www.cirium.com/)!
-* 🚀  I'm currently working on [warframe-scraper (Java Maven Application)](https://github.com/lucaswarwick02/warframe-scraper)
+* 🚀  I'm currently working on [marvel-social-network](https://github.com/lucaswarwick02/marval-social-network)
 
 ### Skills
 
