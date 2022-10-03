@@ -6,11 +6,10 @@ Student / Software Developer
 
 I am currently a student working towards a BSc in Computer Science at the University of Southampton.
 
-* 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [Online Resume](http://lucaswarwick02.github.io/online-resume)
+* 🌍  I'm based in United Kingdom (British Summer Time)
 * ✉️  You can contact me at [lucaswarwick02@gmail.com](mailto:lucaswarwick02@gmail.com)
-* 💼  I am currenly working as a Data Science Intern for [Cirium](https://www.cirium.com/)!
-* 🚀  I'm currently working on [TerraBuild](https://lucaswarwick02.github.io/terrabuild/)
+* 💼  Over summer I worked at [Cirium](https://www.cirium.com/) as a Data Science Intern
+* 🚀  I'm currently working on [TerraBuild](https://lucaswarwick02.github.io/terrabuild/), a web based application for creating and sharing builds for the game Terraria!
 
 ### Skills
 
