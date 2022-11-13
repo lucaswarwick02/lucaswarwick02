@@ -9,7 +9,7 @@ I am currently a student working towards a BSc in Computer Science at the Univer
 * 🌍  I'm based in United Kingdom (British Summer Time)
 * ✉️  You can contact me at [lucaswarwick02@gmail.com](mailto:lucaswarwick02@gmail.com)
 * 💼  Over summer I worked at [Cirium](https://www.cirium.com/) as a Data Science Intern
-* 🚀  I'm currently working on [TerraBuild](https://lucaswarwick02.github.io/terrabuild/), a web based application for creating and sharing builds for the game Terraria!
+* 🚀  I'm currently working on my [Dissertation](https://github.com/lucaswarwick02/Part-III-Individual-Project) for my Computer Science BSc
 
 ### Skills
 
