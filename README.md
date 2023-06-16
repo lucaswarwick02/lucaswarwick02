@@ -9,7 +9,7 @@ I am currently a student working towards a BSc in Computer Science at the Univer
 * 🌍  I'm based in United Kingdom (British Summer Time)
 * ✉️  You can contact me at [lucaswarwick02@gmail.com](mailto:lucaswarwick02@gmail.com)
 * 💼  Starting as an Associate Data Scientist at [Cirium](https://www.cirium.com/) in September '23
-* 🚀  I'm currently working on my [Dissertation](https://github.com/lucaswarwick02/Part-III-Individual-Project) for my Computer Science BSc
+* 🚀  I'm currently working on my [Vanilla Overhaul](https://github.com/lucaswarwick02/Part-III-Individual-Project), a Minecraft (Fabric) mod improving the basic aspects of the game.
 
 ### Skills
 
