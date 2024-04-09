@@ -8,8 +8,9 @@ I am currently a student working towards a BSc in Computer Science at the Univer
 
 * 🌍  I'm based in United Kingdom (British Summer Time)
 * ✉️  You can contact me at [lucaswarwick02@gmail.com](mailto:lucaswarwick02@gmail.com)
-* 💼  Starting as an Associate Data Scientist at [Cirium](https://www.cirium.com/) in September '23
-* 🚀  I'm currently working on my [Vanilla Overhaul](https://github.com/lucaswarwick02/vanilla-overhaul), a Minecraft (Fabric) mod improving the basic aspects of the game.
+* 💼  Working as an Associate Data Scientist at [Cirium](https://www.cirium.com/) since September '23
+   * 🔗 You can find my work GitHub account [here](https://github.com/warwickl1)
+* 🚀  I'm currently working on building up my Game Development (Unity) knowledge in my spare time
 
 ### Skills
 
